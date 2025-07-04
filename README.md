@@ -32,7 +32,17 @@
 
  **North South University**  
   B.Sc. in Computer Science and Engineering  
-  📅 Feb 2020 – Dec 2025  
+  📅 Feb 2020 – Dec 2025    
+
+---
+
+## 📂 Projects
+
+| Project                                      | Description | Tools |
+|----------------------------------------------|-------------|-------|
+| 🔗 [Sport News](https://github.com/WalidBinKamal/sport-news-client.git)          | Full-stack sports news platform with authentication and dynamic content. | `React`, `Tailwind CSS`, `Firebase`, `Node.js`, `Express.js`, `MongoDB` |
+| 🔗 [Dragon News Auth](https://github.com/WalidBinKamal/dragon-news-auth.git)     | News portal with Firebase authentication and protected routes. | `React`, `Firebase`, `Tailwind CSS` |
+| 🔗 [Peddy](https://github.com/WalidBinKamal/peddy.git)                           | Pet adoption platform built using modern web fundamentals. | `HTML`, `CSS`, `JavaScript (ES6+)` |
 
 ---
 
@@ -99,19 +109,6 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </a>
 </div>
-
-
----
-
-## 📂 Projects
-
-| Project                                      | Description | Tools |
-|----------------------------------------------|-------------|-------|
-| 🔗 [Sport News](https://github.com/WalidBinKamal/sport-news-client.git)          | Full-stack sports news platform with authentication and dynamic content. | `React`, `Tailwind CSS`, `Firebase`, `Node.js`, `Express.js`, `MongoDB` |
-| 🔗 [Dragon News Auth](https://github.com/WalidBinKamal/dragon-news-auth.git)     | News portal with Firebase authentication and protected routes. | `React`, `Firebase`, `Tailwind CSS` |
-| 🔗 [Peddy](https://github.com/WalidBinKamal/peddy.git)                           | Pet adoption platform built using modern web fundamentals. | `HTML`, `CSS`, `JavaScript (ES6+)` |
-
-
 
 ---
 
