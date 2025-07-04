@@ -76,17 +76,12 @@
 
 ## 📂 Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)  
-> A brief description of this project highlighting technologies used and its purpose.  
-Tech: React, Node.js, MongoDB, Firebase
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [Dragon News Auth](https://github.com/WalidBinKamal/dragon-news-auth.git) | News portal with Firebase authentication and protected routes. | React, Firebase, Tailwind CSS |
+| [Peddy](https://github.com/WalidBinKamal/peddy.git) | Pet adoption platform built using modern web fundamentals. | HTML, CSS, JavaScript (ES6+) |
 
-### [Project Name 2](https://github.com/yourusername/project2)  
-> Another short description focusing on key features and your contributions.  
-Tech: React, Tailwind CSS, Express.js
 
-### [Project Name 3](https://github.com/yourusername/project3)  
-> Description focusing on challenges solved or impact created.  
-Tech: Node.js, MongoDB, REST APIs
 
 ---
 
