@@ -105,11 +105,12 @@
 
 ## 📂 Projects
 
-| Project Name                           | Description                                              | Tools                                                    |
-|----------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
-| 🔗 [Sport News](https://github.com/WalidBinKamal/sport-news-client.git) | Full-stack sports news platform with authentication and dynamic content. | React, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB |
-| 🔗 [Dragon News](https://github.com/WalidBinKamal/dragon-news-auth.git) | News portal with Firebase authentication and protected routes. | React, Firebase, Tailwind CSS |
-| 🔗 [Peddy](https://github.com/WalidBinKamal/peddy.git) | Pet adoption platform built using modern web fundamentals. | HTML, CSS, JavaScript (ES6+) |
+| Project                                      | Description | Tools |
+|----------------------------------------------|-------------|-------|
+| 🔗 [Sport News](https://github.com/WalidBinKamal/sport-news-client.git)          | Full-stack sports news platform with authentication and dynamic content. | `React`, `Tailwind CSS`, `Firebase`, `Node.js`, `Express.js`, `MongoDB` |
+| 🔗 [Dragon News Auth](https://github.com/WalidBinKamal/dragon-news-auth.git)     | News portal with Firebase authentication and protected routes. | `React`, `Firebase`, `Tailwind CSS` |
+| 🔗 [Peddy](https://github.com/WalidBinKamal/peddy.git)                           | Pet adoption platform built using modern web fundamentals. | `HTML`, `CSS`, `JavaScript (ES6+)` |
+
 
 
 ---
