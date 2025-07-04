@@ -30,7 +30,7 @@
 
 ## 🎓 Education
 
-- **North South University**  
+ **North South University**  
   B.Sc. in Computer Science and Engineering  
   📅 Feb 2020 – Dec 2025  
 
