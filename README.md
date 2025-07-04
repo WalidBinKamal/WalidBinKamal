@@ -78,7 +78,7 @@
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Dragon News Auth](https://github.com/WalidBinKamal/dragon-news-auth.git) | News portal with Firebase authentication and protected routes. | React, Firebase, Tailwind CSS |
+| [Dragon News](https://github.com/WalidBinKamal/dragon-news-auth.git) | News portal with Firebase authentication and protected routes. | React, Firebase, Tailwind CSS |
 | [Peddy](https://github.com/WalidBinKamal/peddy.git) | Pet adoption platform built using modern web fundamentals. | HTML, CSS, JavaScript (ES6+) |
 
 
