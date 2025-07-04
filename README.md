@@ -1,54 +1,102 @@
-<h1 align="center">Hi 👋, I'm Walid Bin Kamal</h1>
-<h3 align="center">Full-Stack Web Developer | React | Node.js | MongoDB | Firebase</h3>
-
-<p align="center">
-Passionate about building scalable web applications and bringing ideas to life through clean, efficient code.
-</p>
+# Hi 👋, I'm Walid Bin Kamal  
+### 💻 Full-Stack Developer | React & Node.js | MERN Stack & Firebase  
 
 ---
 
-- 🌐 I specialize in **Full-Stack Web Development**
-- ⚡ Tech Stack: **React**, **Node.js**, **Express**, **MongoDB**, **Firebase**, **Tailwind CSS**, and more
-- 💻 Currently focusing on building modern, responsive web apps with MERN stack
-- 📫 Reach me at: **walidbin.kamal64@gmail.com**
-- 💬 Ask me about **React**, **Node.js**, **MongoDB**, **Full-Stack Development**
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin-bottom: 20px;">
+
+  <a href="https://linkedin.com/in/walid-bin-kamal" target="_blank" rel="noopener noreferrer" title="LinkedIn" style="border-radius: 50%; overflow: hidden; display: inline-block;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" style="border-radius: 50%;" />
+  </a>
+
+  <a href="https://fb.com/walidbin.kamal.7" target="_blank" rel="noopener noreferrer" title="Facebook" style="border-radius: 50%; overflow: hidden; display: inline-block;">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" height="28" style="border-radius: 50%;" />
+  </a>
+
+  <a href="mailto:walidbin.kamal64@gmail.com" target="_blank" rel="noopener noreferrer" title="Email" style="border-radius: 50%; overflow: hidden; display: inline-block;">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28" style="border-radius: 50%;" />
+  </a>
+
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/walid-bin-kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walid-bin-kamal" height="30" width="40" /></a>
-<a href="https://fb.com/walidbin.kamal.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="walidbin.kamal.7" height="30" width="40" /></a>
-</p>
+### ⚡ My Expertise
+- 💻 Build full-stack web apps using **React**, **Node.js**, **Express**, and **MongoDB**  
+- ⚡ Optimize apps with **Tailwind CSS** and **Firebase** for seamless UX and scalable backend  
+- 🛠️ Collaborate in agile teams, focusing on clean code, testing, and best practices  
 
 ---
 
-<h3 align="left">Tech Stack & Tools:</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-</p>
+## 🎓 Education
+
+- **North South University**  
+  B.Sc. in Computer Science and Engineering  
+  📅 Feb 2020 – Dec 2025  
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=walidbinkamal&show_icons=true&theme=default&hide_title=true" alt="walidbinkamal" />
-</p>
+## 🛠️ Languages & Tools
 
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walidbinkamal&show_icons=true&locale=en&layout=compact" alt="walidbinkamal" />
-</p>
+### Languages  
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</div>
 
-<p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walidbinkamal&" alt="walidbinkamal" />
-</p>
+### Frontend Frameworks & Libraries  
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</div>
+
+### Backend & Runtime  
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+</div>
+
+### Databases & Cloud  
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
+
+### Tools & Design  
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
+
+---
+
+## 📂 Projects
+
+### [Project Name 1](https://github.com/yourusername/project1)  
+> A brief description of this project highlighting technologies used and its purpose.  
+Tech: React, Node.js, MongoDB, Firebase
+
+### [Project Name 2](https://github.com/yourusername/project2)  
+> Another short description focusing on key features and your contributions.  
+Tech: React, Tailwind CSS, Express.js
+
+### [Project Name 3](https://github.com/yourusername/project3)  
+> Description focusing on challenges solved or impact created.  
+Tech: Node.js, MongoDB, REST APIs
+
+---
+
+## 🌱 Learning / Currently Exploring
+
+- Next.js — for building server-side rendered React apps  
+
+---
+
+## 🧰 Workflow & Tools
+
+- Version control with Git and GitHub  
+- VSCode with helpful extensions  
